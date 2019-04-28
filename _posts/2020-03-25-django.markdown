@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "djangomodel"
-date:   {{ site.time | date: '%Y' }
+date:   2018-12-30 16:27:55 +0900
 categories: django
 ---
 ###프록시 모델
